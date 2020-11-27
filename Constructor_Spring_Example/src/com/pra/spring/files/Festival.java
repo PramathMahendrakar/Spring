@@ -2,7 +2,7 @@ package com.pra.spring.files;
 
 public class Festival {
 
-	private String name= "Deepavali";
+	private String name= "Pramath";
 
 	public Festival() {
 		System.out.println("Created Festival");
